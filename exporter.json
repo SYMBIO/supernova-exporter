@@ -1,0 +1,21 @@
+{
+    "id": "agency.symbio.supernova-exporter",
+    "name": "SYMBIO React with Tailwind Exporter",
+    "description": "Custom exporter to React components styled using Tailwind for use with SYMBIO devstack",
+    "author": "SYMBIO Developers",
+    "organization": "SYMBIO",
+    "source_dir": "src",
+    "version": "1.0.0",
+    "config": {
+        "sources": "sources.json",
+        "output": "output.json"
+    },
+    "engines": {
+        "pulsar": "1.0.0",
+        "supernova": "1.0.0"
+    },
+    "tags": [
+        "React",
+        "Tailwind"
+    ]
+}
